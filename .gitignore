@@ -1,3 +1,6 @@
+pickled_snapshots
+unpickled_snapshots
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
